@@ -1,1 +1,1 @@
-# A-Very-Big-Sum-algo
+# A-Very-Big-Sum-algo This program reads a list of very large integers and calculates their total using the aVeryBigSum function, which stores the sum in a long variable to handle big numbers. It then prints the final sum as the output.
